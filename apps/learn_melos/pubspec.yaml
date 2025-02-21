@@ -10,6 +10,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.8
   login: ^0.0.2
+  utils: ^0.0.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
