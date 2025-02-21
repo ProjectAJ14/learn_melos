@@ -1,0 +1,14 @@
+name: learn_melos_workspace
+description: A Flutter project created by Nonstop CLI.
+
+
+packages:
+  - plugins/*
+  - features/*
+  - features/*/*
+  - packages/*
+  - apps/*
+
+command:
+  version:
+    workspaceChangelog: false
