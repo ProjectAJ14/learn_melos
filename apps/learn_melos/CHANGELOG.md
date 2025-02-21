@@ -1,3 +1,7 @@
+## 0.0.4
+
+ - **FEAT**: add utils package.
+
 ## 0.0.3
 
  - **FEAT**: add login feature.
